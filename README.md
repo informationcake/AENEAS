@@ -1,5 +1,5 @@
 # AENEAS
-This repo contains my scripts being developed for the ANEAS project
+This repo contains my scripts being developed for the AENEAS project
 
 The AENEAS project is a H2020 project that runs from 1 January 2017 for three years.
 
