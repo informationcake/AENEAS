@@ -250,7 +250,7 @@ if __name__ == "__main__":
     prepared_data = prepare_data(input_table, trim_columns, train_percent, verbose=True, tsne=True)
     #tsne=True means don't split data into test/train
     #print('you have {0} sources...'.format(len(prepared_data['all_features'])))
-    TSNE_plot(prepared_data['all_features'], prepared_data['all_classes'], n_iter=2000, lrate=500, verbose=False, multicore=True)
+    TSNE_plot(prepared_data['all_features'], prepared_data['all_classes'], n_iter=2000, lrate=500, verbose=False, multicore=False)
 
 
     #something else
