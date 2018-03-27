@@ -1,8 +1,8 @@
 import os, sys, glob
 import pandas
-import numpy as np                  # standard Python lib for math ops
-import matplotlib.pyplot as plt     # another graphing package
-#import skimage.io                   # image processing library
+import numpy as np
+import matplotlib.pyplot as plt
+#import skimage.io
 import pickle
 import time
 import itertools
